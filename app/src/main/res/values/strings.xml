@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CameraSQLite</string>
+    <string name="tirar_foto">Tirar foto</string>
+    <string name="gravar_video">Gravar vídeo</string>
+    <string name="minhas_midias">Minhas mídias</string>
+    <string name="lista_vazia">Nenhuma mídia ainda.\nToque em \"Tirar foto\" ou \"Gravar vídeo\".</string>
+    <string name="miniatura">Miniatura da mídia</string>
+    <string name="todas">Todas</string>
+    <string name="fotos">Fotos</string>
+    <string name="videos">Vídeos</string>
+    <string name="buscar_descricao">Buscar por descrição...</string>
+</resources>
